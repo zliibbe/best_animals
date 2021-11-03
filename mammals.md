@@ -1,3 +1,4 @@
 dog
 panda
 squirrel
+whale
